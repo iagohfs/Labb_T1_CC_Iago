@@ -1,4 +1,5 @@
 ﻿using System;
+using Xunit;
 
 namespace Labb_T1_CC_Iago
 {
@@ -7,6 +8,7 @@ namespace Labb_T1_CC_Iago
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }
