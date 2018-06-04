@@ -7,8 +7,11 @@ namespace Labb_T1_CC_Iago
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            /*Console.WriteLine("Hello World!");
             Console.ReadLine();
+            */
+            //Account account1 = new Account();
+
         }
     }
 }
